@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-programming-mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -b && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gathertown/intro-to-programming-mod.git"
+  },
+  "author": "npfoss",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@gathertown/gather-game-client": "32.0.0",
+    "isomorphic-ws": "^4.0.1",
+    "ws": "^8.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.10",
+    "typescript": "^4.2.4"
+  }
+}

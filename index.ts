@@ -412,6 +412,7 @@ if (x === "like, a million") {
   // x isn't even a string, it's a number! definitely false
   console.log("x is HUGE"); // should not be printed
 }
+console.log('end of program')
 
 /*
 

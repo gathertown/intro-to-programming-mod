@@ -69,7 +69,7 @@ with the /* syntax
 // console.log() is one command you can run to make stuff happen
 // each command will happen one at a time, in the order you write them
 
-// to run this program, type `npm run start` into your termal and press enter
+// to run this program, type `npm run start` into your terminal and press enter
 // there's a lot of magic going on behind the scenes when you do that. Don't worry about it yet
 // what matters is that you made the computer do a thing, and that you can make it do _anything_
 
